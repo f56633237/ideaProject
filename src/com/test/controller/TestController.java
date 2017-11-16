@@ -10,6 +10,7 @@ public class TestController {
     @ResponseBody
     public String test(){
         System.out.println("123123123123");
+        String c="a";
         return "hell there";
     }
 }
