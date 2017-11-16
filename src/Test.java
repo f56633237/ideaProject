@@ -21,7 +21,7 @@ public class Test {
 
         System.out.println(String.format(orig,123,456));
         System.out.println(MessageFormat.format(orig,123,456));
-
+    String g="";
 
 
     }
